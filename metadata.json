@@ -1,0 +1,6 @@
+{
+  "name": "VibeFlow",
+  "description": "Modern full-stack music streaming platform inspired by Spotify with dark theme, audio player, playlists, downloads, and M-Pesa paywall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
